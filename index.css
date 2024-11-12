@@ -45,7 +45,27 @@
   padding: 5px 0px;
 }
 .res-container {
-  gap: 10px;
+  gap: 7px;
   display: flex;
   flex-wrap: wrap;
+}
+.filter-btn {
+  margin: 10px 0px;
+}
+.shimmer_container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.shimmer-card {
+  width: 200px;
+  height: 400px;
+  margin: 20px;
+  background-color: #f0f0f0;
+}
+.header_auth_btn {
+  padding: 5px 10px;
+}
+.filter {
+  display: flex;
+  gap: 2px;
 }
